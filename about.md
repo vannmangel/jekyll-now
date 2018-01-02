@@ -12,4 +12,4 @@ This is where I write something even more awesome about myself. Great!
 
 ### Contact me
 
-[smo@ctglobalservices.com](smo@ctglobalservices.com)
+[smo@ctglobalservices.com](mailto:smo@ctglobalservices.com)
